@@ -1,5 +1,4 @@
 Feature: Testy strony PortalKujawski.pl
-#przekazać nazwę obiektu poddawanego testowi w Scenario
 
   Scenario Outline: Szukaj tekstu na stronie Portalu Kujawskiego
     Given Użytkownik otworzy stronę Portalu Kujawskiego 'http://www.portalkujawski.pl/'
